@@ -1,0 +1,8 @@
+git add.
+git commit -m "local project"
+
+git pull origin main --> (it will give error , resolve manually by edit file between  <<<<<<< HEAD    ---  >>>>>>> some_commit_hash) 
+
+git add.
+git commit -m "Resolved merge conflicts"
+git push origin main
