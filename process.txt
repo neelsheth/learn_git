@@ -5,5 +5,5 @@ git clone <Url>
 //-----------------check repo is up to date? any changes ?
 git status
 
-//-----------------add chnages to repo (in staged , need to commite to show on remote repo)
+//-----------------add chnages to repo (in staged , need to commit to show on remote repo , staged part will not come in record only commit part will come in record history)
 git add .
