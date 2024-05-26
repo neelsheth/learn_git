@@ -1,5 +1,5 @@
 git add.
-git commit -m "local project"
+git commit -m "local project with conflicts"
 
 git pull origin main --> (it will give error , resolve manually by edit file between  <<<<<<< HEAD    ---  >>>>>>> some_commit_hash) 
 
