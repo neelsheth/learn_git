@@ -6,3 +6,10 @@ git pull origin main --> (it will give error , resolve manually by edit file bet
 git add.
 git commit -m "Resolved merge conflicts"
 git push origin main
+
+
+
+------------------------------ retrive old commit-------------------------------------------------------------------
+git log
+copy hash Id
+git checkout <Hash id>
