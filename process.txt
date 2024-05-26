@@ -1,0 +1,9 @@
+//-----------------clone remort repo
+git clone <Url>
+
+
+//-----------------check repo is up to date? any changes ?
+git status
+
+//-----------------add chnages to repo (in staged , need to commite to show on remote repo)
+git add .

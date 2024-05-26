@@ -1,10 +1,18 @@
 Vs code
 Git Bash (for windows)
 
-check Git install
+//----------check Git installed or not
 git --version
 
 
+
+//----------Git config
 git config --global user.name "neel s"
 git config --global user.email "neelsheth18@gmail.com"
 git config --list
+
+
+//------------To check hidden file
+ls -a
+ls -Force
+
